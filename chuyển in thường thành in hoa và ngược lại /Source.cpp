@@ -25,7 +25,7 @@ int main() {
 	
 	for (int i = 0; i < s.size(); i++) {
 		if (s[i] >= 'A' && s[i] <= 'Z') {
-			s[i] += 32; // Chuyển ký tự thường thành chữ hoa
+			s[i] += 32; // Chuyển ký tự hoa thành chữ thường
 		}
 	}
 	cout << "Chuoi sau khi chuyen sang chu hoa: " << s << endl;
