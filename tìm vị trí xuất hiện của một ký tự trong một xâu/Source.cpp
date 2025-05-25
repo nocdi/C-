@@ -1,4 +1,4 @@
-#include <iostream>//cách này thì không xuất ra giá trị 
+#include <iostream>//cách này thì không xuất ra giá trị rác
 using namespace std;
 int main() {
 	string s;
